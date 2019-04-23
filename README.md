@@ -7,7 +7,11 @@
 * [Android Weekly Issue #01](https://github.com/yeungeek/Weekly/issues/1)
 
 ## Reference
-
+* [Android Developers](https://developer.android.com/)
 * [Android Weekly](https://androidweekly.net/)
 * [Android开发技术周报](https://androidweekly.io/)
 * [湾区日报](https://wanqu.co/)
+* [玩Android](https://www.wanandroid.com)
+* [Hacker News](https://news.ycombinator.com/)
+* [稀土掘金](https://juejin.im)
+* [干货集中营](http://gank.io/)
