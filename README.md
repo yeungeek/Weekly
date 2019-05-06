@@ -6,6 +6,7 @@
 ## 往期周刊
 * [Android Weekly Issue #01](https://github.com/yeungeek/Weekly/issues/1)
 * [Android Weekly Issue #02](https://github.com/yeungeek/Weekly/issues/2)
+* [Android Weekly Issue #03](https://github.com/yeungeek/Weekly/issues/3)
 
 ## Reference
 * [Android Developers](https://developer.android.com/)
