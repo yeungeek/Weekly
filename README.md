@@ -14,8 +14,8 @@
 * [Android Weekly Issue #01](https://github.com/yeungeek/Weekly/issues/1)
 
 ## 专题
-* [技术面试](topic/Topic#01.md)
-* [网络](topic/Topic#01.md)
+* [技术面试](topic/Topic01.md)
+* [网络](topic/Topic02.md)
 
 ## Reference
 * [Android Developers](https://developer.android.com/)
