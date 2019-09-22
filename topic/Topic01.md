@@ -32,6 +32,9 @@ Your Cheat Sheet For Android Interview - Android Interview Questions
 ### [android_interview](https://github.com/LRH1993/android_interview)
 Android校招面试指南
 
+### [Awesome-Android-Notebook](https://github.com/JsonChao/Awesome-Android-Notebook)
+💻 A complete plan for better android developers.（continuous updating ...）
+
 ## 面试题集
 ### [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A)
 The top Internet companies android interview questions and answers
