@@ -36,6 +36,9 @@ Android校招面试指南
 💻 A complete plan for better android developers.（continuous updating ...）
 
 ## 面试题集
+### [反向面试](https://github.com/yifeikong/reverse-interview-zh)
+技术面试最后反问面试官的话
+
 ### [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A)
 The top Internet companies android interview questions and answers
 
