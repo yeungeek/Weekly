@@ -4,6 +4,7 @@
 文章采用在[issues](https://github.com/yeungeek/Weekly/issues)的方式更新.
 
 ## 往期周刊
+* [Android Weekly Issue #25](https://github.com/yeungeek/Weekly/issues/25)
 * [Android Weekly Issue #24](https://github.com/yeungeek/Weekly/issues/24)
 * [Android Weekly Issue #23](https://github.com/yeungeek/Weekly/issues/23)
 * [Android Weekly Issue #22](https://github.com/yeungeek/Weekly/issues/22)
